@@ -1,4 +1,4 @@
-# PayHere .NET Core Notify URL Example
+# PayHere .NET Core 🌍 Notify URL Example
 
 An Example containing the Notify URL implementation for the Checkout API.
 
